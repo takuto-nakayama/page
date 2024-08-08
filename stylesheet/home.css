@@ -97,6 +97,7 @@ hr{
 #bio h1{
   font-size: 36px;
   padding-bottom: 12px;
+  font-weight: normal;
 }
 
 #bio p{
@@ -118,6 +119,7 @@ hr{
   font-size: 36px;
   margin: auto;
   padding-bottom: 12px;
+  font-weight: normal;
 }
   
 #cv h2{
