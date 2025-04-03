@@ -1,0 +1,54 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% スタイルとカラー
+\moderncvstyle{banking}      % 'casual', 'classic', 'oldstyle', 'banking' など
+\moderncvcolor{blue}         % 'blue', 'orange', 'green', 'red', 'purple', 'grey', 'black'
+
+% フォント設定（日本語を使うなら XeLaTeX か LuaLaTeX + fontspec が必要）
+\usepackage[scale=0.8]{geometry}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+%\setmainjfont{IPAexMincho}   % 日本語フォント（例）
+
+\usepackage{xcolor}             % カラーを定義するため
+\definecolor{mycolor}{HTML}{042454}
+
+% 個人情報
+\name{Takuto}{Nakayama}
+\title{Curriculum Vitae}
+\address{Tokyo, Japan}{}{}
+\phone[mobile]{+81~90~1846~8451}
+\email{tnakayama.a5ling@gmail.com}
+\photo[64pt][0.4pt]{selfie_circled.png} % 写真（オプション）
+
+\begin{document}
+
+\makecvtitle
+
+\section{Education}
+	\cventry
+		{2020--2022}
+		{M.A. in Literature}
+		{Keio University}
+		{Tokyo, Japan}{}{}
+	\cventry
+		{2016--2020}
+		{B.A. in Literature}
+		{Keio University}
+		{Tokyo, Japan}{}{}
+
+\section{Languages}
+	\cvitemwithcomment{Japanese}{Native}{}
+	\cvitemwithcomment{English}{Fluent}{}
+	\cvitemwithcomment{German}{Basic}{Studied for 2 years}
+
+\section{Skills}
+	\cvitem{Programming}{Python}
+
+\section{Publications}
+	\cvitem{2024}{\textit{“Exploring Japanese WordPiece Tokenization in BERT Models”}, ICL, Poland}
+
+\section{Presentation}
+
+\section{}
+\end{document}
