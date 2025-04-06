@@ -1,54 +1,68 @@
-\documentclass[11pt,a4paper,sans]{moderncv}
+\documentclass[a4paper,11pt]{article}
 
-% スタイルとカラー
-\moderncvstyle{banking}      % 'casual', 'classic', 'oldstyle', 'banking' など
-\moderncvcolor{blue}         % 'blue', 'orange', 'green', 'red', 'purple', 'grey', 'black'
-
-% フォント設定（日本語を使うなら XeLaTeX か LuaLaTeX + fontspec が必要）
-\usepackage[scale=0.8]{geometry}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
 \usepackage{fontspec}
+\usepackage{luatexja}         % ← LuaLaTeX or XeLaTeX の場合、日本語対応
+
+% フォント
 \setmainfont{Times New Roman}
-%\setmainjfont{IPAexMincho}   % 日本語フォント（例）
+\setsansfont{Arial}
+\setmonofont{Courier New}
+%\setmainjfont{IPAexMincho}    % 日本語用フォント
 
-\usepackage{xcolor}             % カラーを定義するため
-\definecolor{mycolor}{HTML}{042454}
+% セクションタイトル設定
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
 
-% 個人情報
-\name{Takuto}{Nakayama}
-\title{Curriculum Vitae}
-\address{Tokyo, Japan}{}{}
-\phone[mobile]{+81~90~1846~8451}
-\email{tnakayama.a5ling@gmail.com}
-\photo[64pt][0.4pt]{selfie_circled.png} % 写真（オプション）
+% ページ番号なし
+\pagestyle{empty}
 
 \begin{document}
 
-\makecvtitle
+\begin{center}
+    {\LARGE \textbf{Takuto Nakayama}}\\
+    \vspace{0.5em}
+    \href{mailto:takuto@example.com}{takuto@example.com} \quad | \quad +81-90-1234-5678 \\
+    \vspace{0.2em}
+    Tokyo, Japan
+\end{center}
 
-\section{Education}
-	\cventry
-		{2020--2022}
-		{M.A. in Literature}
-		{Keio University}
-		{Tokyo, Japan}{}{}
-	\cventry
-		{2016--2020}
-		{B.A. in Literature}
-		{Keio University}
-		{Tokyo, Japan}{}{}
+\vspace{1em}
 
-\section{Languages}
-	\cvitemwithcomment{Japanese}{Native}{}
-	\cvitemwithcomment{English}{Fluent}{}
-	\cvitemwithcomment{German}{Basic}{Studied for 2 years}
+\section*{Education}
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Keio University}, Tokyo, Japan \\
+  B.A. in Linguistics, Expected March 2024
+\end{itemize}
 
-\section{Skills}
-	\cvitem{Programming}{Python}
+\section*{Research Interests}
+\begin{itemize}[leftmargin=*]
+  \item Computational Linguistics, BERT, Tokenization, Japanese NLP
+\end{itemize}
 
-\section{Publications}
-	\cvitem{2024}{\textit{“Exploring Japanese WordPiece Tokenization in BERT Models”}, ICL, Poland}
+\section*{Publications and Presentations}
+\begin{itemize}[leftmargin=*]
+  \item \textit{"Exploring Japanese WordPiece Tokenization in BERT"} \\
+        Presented at ICL 2024, Poznań, Poland
+\end{itemize}
 
-\section{Presentation}
+\section*{Conference Talks}
 
-\section{}
+
+\section*{Media Talks}
+
+
+
+\section*{Languages}
+\begin{itemize}[leftmargin=*]
+  \item English (fluent), Japanese（母語）, Polish (basic)
+\end{itemize}
+
+\section*{Skills}
+\begin{itemize}[leftmargin=*]
+  \item Python, PyTorch, LaTeX, Git, Manim
+\end{itemize}
+
 \end{document}
