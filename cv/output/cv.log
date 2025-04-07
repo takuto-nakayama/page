@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.21)  8 APR 2025 00:03
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.21)  8 APR 2025 08:29
  system commands enabled.
  file:line:error style messages enabled.
 **/Users/takuto/git/page/cv/cv.tex
@@ -845,18 +845,20 @@ LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
 (Font)              No change on input line 78.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
-(Font)              No change on input line 90.
+(Font)              No change on input line 83.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
-(Font)              No change on input line 91.
+(Font)              No change on input line 84.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
-(Font)              No change on input line 92.
+(Font)              No change on input line 85.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
-(Font)              No change on input line 93.
+(Font)              No change on input line 86.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
-(Font)              No change on input line 94.
+(Font)              No change on input line 87.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 88.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
 (Font)              No change on input line 95.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
@@ -864,33 +866,44 @@ LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
 (Font)              No change on input line 97.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
-(Font)              No change on input line 108.
+(Font)              No change on input line 98.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 99.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 100.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 101.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 102.
+ [2]
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 113.
 
-Overfull \hbox (93.90697pt too wide) in paragraph at lines 118--123
+Overfull \hbox (93.90697pt too wide) in paragraph at lines 123--128
 [][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--123
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 
  []
 
-[2] [3] (./output/cv.aux)
+[3] (./output/cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
  13703 strings out of 477785
- 244633,662416 words of node,token memory allocated
- 18918 words of node memory still in use:
-   7 hlist, 1 vlist, 4 rule, 2 glue, 318 kern, 1 glyph, 7368 attribute, 292 glue_spec, 383 attribute_list, 1 write, 42 user_defined nodes
-   avail lists: 1:39,2:77812,3:290,4:263,5:83,6:65,7:6485,8:10,9:548,10:5,11:516
+ 305802,662416 words of node,token memory allocated
+ 19388 words of node memory still in use:
+   7 hlist, 1 vlist, 4 rule, 2 glue, 318 kern, 1 glyph, 7453 attribute, 346 glue_spec, 388 attribute_list, 1 write, 47 user_defined nodes
+   avail lists: 1:35,2:97624,3:280,4:250,5:87,6:63,7:8280,8:10,9:636,10:5,11:697
  33877 multiletter control sequences out of 65536+600000
  80 fonts using 64520023 bytes
  106i,13n,98p,1780b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></System/Library/Fonts/Supplemental/Times New Roman.ttf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf>
-Output written on cv.pdf (3 pages, 116029 bytes).
+Output written on cv.pdf (3 pages, 119377 bytes).
 
 PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
