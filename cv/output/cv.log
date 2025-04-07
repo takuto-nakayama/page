@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.21)  6 APR 2025 09:54
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.21)  8 APR 2025 00:03
  system commands enabled.
  file:line:error style messages enabled.
 **/Users/takuto/git/page/cv/cv.tex
@@ -191,35 +191,17 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip52
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec.sty
+Package: luatexja-fontspec 2020-09-14 fontspec support of LuaTeX-ja
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2022-02-24 L3 programming layer (loader) 
  (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2022-02-07 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count272
 \l__pdf_internal_box=\box52
 ))
-Package: xparse 2022-01-12 L3 Experimental document command parser
-)
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count273
-\l__fontspec_language_int=\count274
-\l__fontspec_strnum_int=\count275
-\l__fontspec_tmp_int=\count276
-\l__fontspec_tmpa_int=\count277
-\l__fontspec_tmpb_int=\count278
-\l__fontspec_tmpc_int=\count279
-\l__fontspec_em_int=\count280
-\l__fontspec_emdef_int=\count281
-\l__fontspec_strong_int=\count282
-\l__fontspec_strongdef_int=\count283
-\l__fontspec_tmpa_dim=\dimen156
-\l__fontspec_tmpb_dim=\dimen157
-\l__fontspec_tmpc_dim=\dimen158
- (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/luatexja.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/luatexja.sty
 Package: luatexja 2022-03-11 Japanese Typesetting with Lua(La)TeX
  (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/luatexja-core.sty
 Package: luatexja-core 2022-01-12 Core of LuaTeX-ja
@@ -227,7 +209,7 @@ Package: luatexja-core 2022-01-12 Core of LuaTeX-ja
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
  (/usr/local/texlive/2022/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count284
+\@catcodetablestackcnt=\count273
 )
 \CatcodeTableOther=\catcodetable12
 \CatcodeTableExpl=\catcodetable13
@@ -237,11 +219,11 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 \XKV@toks=\toks21
 \XKV@tempa@toks=\toks22
 )
-\XKV@depth=\count285
+\XKV@depth=\count274
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count286
+\etb@tempcnta=\count275
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/everyhook/everyhook.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/svn-prov/svn-prov.sty
 Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
 )
@@ -253,10 +235,10 @@ Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX everyX
 \everyvbox=\toks27
 \everycr=\toks28
 )
-\ltjlineendcomment=\count287
-\ltj@dimen@zw=\dimen159
-\ltj@dimen@zh=\dimen160
-\ltj@dimen@jQ=\dimen161
+\ltjlineendcomment=\count276
+\ltj@dimen@zw=\dimen156
+\ltj@dimen@zh=\dimen157
+\ltj@dimen@jQ=\dimen158
 \ltj@icflag=\attribute4
 \ltj@curjfnt=\attribute5
 \ltj@curtfnt=\attribute6
@@ -272,7 +254,7 @@ Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX everyX
 \ltj@vert@ori=\attribute16
 \ltj@dir=\attribute17
 \ltj@@japanese=\language2
-\ltj@tempcnta=\count288
+\ltj@tempcnta=\count277
 \ltj@kcat0=\attribute18
 \ltj@kcat1=\attribute19
 \ltj@kcat2=\attribute20
@@ -310,7 +292,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 4 in `luaotfload.patch
 Inserting `luaotfload.aux.set_capheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' at position 6 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 7 in `luaotfload.patch_font'.
-Inserting `ltj.prepare_extra_data' at position 1 in `luatexja.define_font'.(load cache: extra_lmroman10-regular.luc)(load cache: extra_lmroman10-bold.luc)
+Inserting `ltj.prepare_extra_data' at position 1 in `luatexja.define_font'.(load cache: extra_lmroman10-regular.luc)
 Inserting `ltj.get_vert_form' at position 1 in `luatexja.define_jfont'.
 Removing  `ltj.prepare_extra_data' from `luaotfload.patch_font'.
 Removing  `luaotfload.aux.set_sscale_dimens' from `luaotfload.patch_font'.
@@ -368,9 +350,9 @@ Inserting `ltj.main' at position 4 in `hpack_filter'.
 Inserting `luaotfload.harf.finalize_hlist' at position 5 in `hpack_filter'.
 Inserting `ltj.create_dir_whatsit' at position 6 in `hpack_filter'. (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/ltj-base.sty
 Package: ltj-base 2021-03-16
-\ltj@tempcntb=\count289
-\ltj@tempcntc=\count290
-\ltj@tempdima=\dimen162
+\ltj@tempcntb=\count278
+\ltj@tempcntc=\count279
+\ltj@tempdima=\dimen159
 \ltj@afbox=\box53
 )
 \ltj@@italic@inner=\luafunction25
@@ -387,8 +369,8 @@ Package: ltj-base 2021-03-16
 \ltj@@fakeboxbdd@inner=\luafunction36
 \ltj@@ins@xk@inner=\luafunction37
 \ltj@@ins@k@inner=\luafunction38
-\ltj@@stack=\count291
-\ltj@@group@level=\count292
+\ltj@@stack=\count280
+\ltj@@group@level=\count281
 \ltjsetkanjiskip@inner=\luafunction39
 \ltjsetxkanjiskip@inner=\luafunction40
 \ltj@@getparam@one@inner=\luafunction41
@@ -405,23 +387,23 @@ Package: ltj-base 2021-03-16
 Package: ltj-latex 2021-10-24 LaTeX support of LuaTeX-ja
 Inserting `ltj.direction' at position 1 in `pre_shipout_filter'. (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjfont.sty
 Package: lltjfont 2021-05-26 Patch to NFSS2 for LuaTeX-ja
-\ltj@@latex@plv=\count293
+\ltj@@latex@plv=\count282
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2021/04/29 v2.0v Standard LaTeX file
 \@remove@tlig@@@@=\luafunction51
 LaTeX Font Info:    Redeclaring font encoding TU on input line 106.
 )
-\Cht=\dimen163
-\cht=\dimen164
-\Cdp=\dimen165
-\cdp=\dimen166
-\Cwd=\dimen167
-\cwd=\dimen168
-\Cvs=\dimen169
-\cvs=\dimen170
-\Chs=\dimen171
-\chs=\dimen172
-\cHT=\dimen173
+\Cht=\dimen160
+\cht=\dimen161
+\Cdp=\dimen162
+\cdp=\dimen163
+\Cwd=\dimen164
+\cwd=\dimen165
+\Cvs=\dimen166
+\cvs=\dimen167
+\Chs=\dimen168
+\chs=\dimen169
+\cHT=\dimen170
 \dstrutbox=\box54
 \tstrutbox=\box55
 \zstrutbox=\box56
@@ -459,7 +441,7 @@ LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/mc/m/n --> JY3/gt/m/n on input line 84.
 ) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty
 Package: lltjcore 2022-01-17 Patch to LaTeX2e Kernel for LuaTeX-ja
-\@tombowwidth=\dimen174
+\@tombowwidth=\dimen171
 \@TL=\box57
 \@Tl=\box58
 \@TC=\box59
@@ -474,14 +456,14 @@ Package: lltjcore 2022-01-17 Patch to LaTeX2e Kernel for LuaTeX-ja
 \@CR=\box68
 (load cache: extra_lmmono9-regular.luc)
 \@bannertoken=\toks29
-\@@paperheight=\dimen175
-\@@paperwidth=\dimen176
-\@@topmargin=\dimen177
+\@@paperheight=\dimen172
+\@@paperwidth=\dimen173
+\@@topmargin=\dimen174
 LaTeX Info: Redefining \underline on input line 261.
 ) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjp-atbegshi.sty
 Package: lltjp-atbegshi 2021-04-29 Patching \shipout hooks for LuaTeX-ja
 \l__platex_shipout_dummy_box=\box69
-) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjp-fontspec.sty) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjp-geometry.sty
+) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjp-geometry.sty
 Package: lltjp-geometry 2021-10-24 Patch to geometry for LuaTeX-ja with vertical writing mode
  (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
@@ -490,18 +472,75 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/luatexja-compat.sty
 Package: luatexja-compat 2020-08-08 Compatibility with pTeX
 (load cache: ltj-jisx0208.luc)
-\hour=\count294
-\minute=\count295
-))
-luaotfload | cache : Lookup cache loaded from /Users/takuto/Library/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load cache: extra_timesnewromanpsmt.luc)(load cache: extra_timesnewromanps-bolditalicmt.luc)(load cache: extra_timesnewromanps-boldmt.luc)(load cache: extra_timesnewromanps-italicmt.luc)
-luaotfload | aux : font no 26 (nil) does not define feature smcp for script latn with language dflt
+\hour=\count283
+\minute=\count284
+))(load cache: extra_lmroman17-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 12.
+(Font)              scaled to size 15.39551pt on input line 16.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 12.
-luaotfload | aux : font no 28 (nil) does not define feature smcp for script latn with language dflt
-luaotfload | aux : font no 29 (nil) does not define feature smcp for script latn with language dflt
+(Font)              scaled to size 15.39551pt on input line 16.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count285
+\l__fontspec_language_int=\count286
+\l__fontspec_strnum_int=\count287
+\l__fontspec_tmp_int=\count288
+\l__fontspec_tmpa_int=\count289
+\l__fontspec_tmpb_int=\count290
+\l__fontspec_tmpc_int=\count291
+\l__fontspec_em_int=\count292
+\l__fontspec_emdef_int=\count293
+\l__fontspec_strong_int=\count294
+\l__fontspec_strongdef_int=\count295
+\l__fontspec_tmpa_dim=\dimen175
+\l__fontspec_tmpb_dim=\dimen176
+\l__fontspec_tmpc_dim=\dimen177
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 112.
+)
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 483.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 483.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)(load cache: extra_lmroman10-bold.luc)
+LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10.95> not available
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 3901.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 3901.
+LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10.95> not available
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 3901.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 3901.
+(load cache: extra_haranoajigothic-medium.luc))) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjp-fontspec.sty) (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-27c.sty
+Package: luatexja-fontspec-27c 2020-04-04 fontspec support of LuaTeX-ja
+\g__ltj_fontspec_altnumber_int=\count296
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box70
+\extrarowheight=\dimen179
+\NC@list=\toks30
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box71
+)
+\rotheadsize=\dimen180
+\c@nlinenum=\count297
+\TeXr@lab=\toks31
+)
+luaotfload | cache : Lookup cache loaded from /Users/takuto/Library/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load cache: extra_timesnewromanpsmt.luc)(load cache: extra_timesnewromanps-bolditalicmt.luc)(load cache: extra_timesnewromanps-boldmt.luc)(load cache: extra_timesnewromanps-italicmt.luc)
 luaotfload | aux : font no 30 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 31 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn with language dflt
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [Ligatures=TeX].
@@ -522,13 +561,11 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             <->"TimesNewRoman/BI:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 12.
 (load cache: extra_arialmt.luc)(load cache: extra_arial-bolditalicmt.luc)(load cache: extra_arial-boldmt.luc)(load cache: extra_arial-italicmt.luc)
-luaotfload | aux : font no 38 (nil) does not define feature smcp for script latn with language dflt
-luaotfload | aux : font no 40 (nil) does not define feature smcp for script latn with language dflt
 luaotfload | aux : font no 41 (nil) does not define feature smcp for script latn with language dflt
 luaotfload | aux : font no 42 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 43 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 44 (nil) does not define feature smcp for script latn with language dflt
 
 Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
 (fontspec)             options [Ligatures=TeX].
@@ -550,10 +587,10 @@ Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 (load cache: extra_couriernewpsmt.luc)(load cache: extra_couriernewps-bolditalicmt.luc)(load cache: extra_couriernewps-boldmt.luc)(load cache: extra_couriernewps-italicmt.luc)
-luaotfload | aux : font no 49 (nil) does not define feature smcp for script latn with language dflt
-luaotfload | aux : font no 50 (nil) does not define feature smcp for script latn with language dflt
 luaotfload | aux : font no 51 (nil) does not define feature smcp for script latn with language dflt
 luaotfload | aux : font no 52 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 54 (nil) does not define feature smcp for script latn with language dflt
 
 Package fontspec Info: Font family 'CourierNew(0)' created for font 'Courier
 (fontspec)             New' with options
@@ -595,37 +632,53 @@ Package fontspec Info: Font family 'CourierNew(0)' created for font 'Courier
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
- (./output/cv.aux)
+(load cache: extra_ipaexmincho.luc)
+luaotfload | aux : font no 57 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'IPAexMincho(0)' created for font
+(fontspec)             'IPAexMincho' with options [Path =
+(fontspec)             /Users/takuto/Library/Fonts/,UprightFont = ipaexm.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[/Users/takuto/Library/Fonts/ipaexm.ttf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+ (/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
+Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
+) (./output/cv.aux)
 \openout1 = cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Trying loading font information for TS1+cmr on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -661,7 +714,7 @@ LaTeX Font Info:    ... okay on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 22.
+Package hyperref Info: Link coloring OFF on input line 28.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -669,11 +722,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count296
+\c@section@level=\count298
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
  (./output/cv.out) (./output/cv.out)
 \@outlinefile=\write3
 
@@ -684,113 +737,163 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup5
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
-LaTeX Font Info:    Redeclaring math accent \check on input line 22.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 28.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 28.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 28.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 28.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 28.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 28.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 28.
+LaTeX Font Info:    Redeclaring math accent \check on input line 28.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 28.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 28.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 22.
+(Font)              `operators' in the math version `normal' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 22.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 28.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 22.
+(Font)              `operators' in the math version `bold' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 22.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 22.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 22.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 22.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 22.
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 22.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 22.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 22.
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 28.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
+(Font)              scaled to size 16.62714pt on input line 31.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
+(Font)              scaled to size 16.62714pt on input line 31.
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <17.28> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 25.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
+(Font)              scaled to size 16.62714pt on input line 31.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <17.28> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 25.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
-(load cache: extra_haranoajigothic-medium.luc)
+(Font)              scaled to size 16.62714pt on input line 31.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 34.
+(Font)              scaled to size 11.54663pt on input line 39.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 34.
+(Font)              scaled to size 11.54663pt on input line 39.
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <12> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 34.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 34.
+(Font)              scaled to size 11.54663pt on input line 39.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <12> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 34.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 34.
-LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10.95> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 36.
-LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10.95> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 36.
+(Font)              scaled to size 11.54663pt on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 41.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 41.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 5.77332pt on input line 41.
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 67.
 LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
-(Font)              No change on input line 47.
+(Font)              No change on input line 74.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 74.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 75.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 75.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 76.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 76.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 77.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 77.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 78.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 78.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 90.
  [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./output/cv.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 91.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 92.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 93.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 94.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 95.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 96.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 97.
+LaTeX Font Info:    Kanji font shape `JY3/mc/m/it' undefined
+(Font)              No change on input line 108.
+
+Overfull \hbox (93.90697pt too wide) in paragraph at lines 118--123
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--123
+
+ []
+
+[2] [3] (./output/cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13195 strings out of 477785
- 125244,662416 words of node,token memory allocated
- 10765 words of node memory still in use:
-   7 hlist, 1 vlist, 4 rule, 2 glue, 184 kern, 1 glyph, 4299 attribute, 99 glue_spec, 227 attribute_list, 1 write, 25 user_defined nodes
-   avail lists: 1:31,2:18580,3:236,4:162,5:85,6:46,7:2237,8:10,9:285,10:5,11:146
- 33425 multiletter control sequences out of 65536+600000
- 63 fonts using 46399015 bytes
- 91i,5n,85p,1745b,328s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></System/Library/Fonts/Supplemental/Times New Roman.ttf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf>
-Output written on cv.pdf (1 page, 82674 bytes).
+ 13703 strings out of 477785
+ 244633,662416 words of node,token memory allocated
+ 18918 words of node memory still in use:
+   7 hlist, 1 vlist, 4 rule, 2 glue, 318 kern, 1 glyph, 7368 attribute, 292 glue_spec, 383 attribute_list, 1 write, 42 user_defined nodes
+   avail lists: 1:39,2:77812,3:290,4:263,5:83,6:65,7:6485,8:10,9:548,10:5,11:516
+ 33877 multiletter control sequences out of 65536+600000
+ 80 fonts using 64520023 bytes
+ 106i,13n,98p,1780b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></System/Library/Fonts/Supplemental/Times New Roman.ttf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf>
+Output written on cv.pdf (3 pages, 116029 bytes).
 
-PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 131072)
+PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
