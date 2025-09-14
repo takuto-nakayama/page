@@ -132,18 +132,17 @@ hr{
   font-weight: normal;
 }
 
-#cv dl{
-  width: fit-content;
-  margin: auto;
-}
-
-#cv dl li{
+#cv ul{
   padding-bottom: 8px;
   width: 80%;
   margin: 0 auto;
   max-width: 700px;
   padding-left:1em;
   text-indent:-1em;
+}
+
+#cv ul li{
+padding-bottom: 8px;
 }
 
 #cv a{
