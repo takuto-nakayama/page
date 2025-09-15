@@ -128,20 +128,23 @@ hr{
   font-size: 20px;
   padding-top: 12px;
   padding-bottom: 12px;
-  padding-left: 3em;
+  width: 90%;
+  margin: 0 auto;
+  max-width: 800px;
   font-weight: normal;
 }
 
 #cv ul{
-  width: fit-content;
-  padding-left: 6em;
+  width: 90%;
   margin: 0 auto;
+  max-width: 800px;
   padding-bottom: 12px;
 }
 
 #cv ul li{
-  padding-bottom: 12px;
+  width: 80%;
   margin: 0 auto;
+  max-width: 800px;
 }
 
 #cv a{
