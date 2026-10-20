@@ -1,6 +1,6 @@
-PWD /Users/takuto/git/page/cv
+PWD /Users/takuto/Research/homepage/cv
 INPUT /usr/local/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /Users/takuto/git/page/cv/nakayama-takuto-cv.tex
+INPUT /Users/takuto/Research/homepage/cv/nakayama-takuto-cv.tex
 OUTPUT output/nakayama-takuto-cv.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ltluatex.lua
@@ -323,11 +323,6 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT output/nakayama-takuto-cv.out
-INPUT output/nakayama-takuto-cv.out
-INPUT output/nakayama-takuto-cv.out
-INPUT output/nakayama-takuto-cv.out
-INPUT output/nakayama-takuto-cv.out
 OUTPUT output/nakayama-takuto-cv.out
 OUTPUT output/nakayama-takuto-cv.pdf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
